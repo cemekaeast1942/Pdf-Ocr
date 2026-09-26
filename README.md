@@ -223,4 +223,4 @@ PDF OCR is offered as a complete free version, with all features and updates inc
 Unlock the potential of your scanned documents today! Download PDF OCR and experience seamless text conversion.
 
 ---
-**Last updated:** 2026-09-26 03:44:30 UTC
+**Last updated:** 2026-09-26 09:09:36 UTC
